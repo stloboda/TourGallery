@@ -1,0 +1,23 @@
+{
+  "name": "tourgallery",
+  "version": "1.0.0",
+  "description": "My dazzling Nuxt.js project",
+  "author": "Stloboda",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "api": "json-server ./api/db.json --port 5815"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "bootstrap-vue": "^2.0.0",
+    "bootstrap": "^4.1.3",
+    "@nuxtjs/axios": "^5.3.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/router": "^1.5.0"
+  }
+}

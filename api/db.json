@@ -1,0 +1,76 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "title": "Riga",
+      "url":"https://pix10.agoda.net/geo/city/3636/1_3636_02.jpg?s=1920x822"
+    }
+  ],
+  "tours": [
+    {
+      "id": 1,
+      "country": "Latvia",
+      "description": "Latvia is a country on the Baltic coast between Lithuania and Estonia, which is famous for its wide beaches and huge dense forests. The capital of the country, Riga, attracts tourists thanks to its wooden buildings, art nouveau houses (aka modern), the huge Central Market and the medieval Old Town with St. Peter's Church. In the Latvian Ethnographic Open Air Museum you can get acquainted with traditional crafts, music and cuisine.",
+      "cost": "1500",
+      "url": "https://cs9.pikabu.ru/post_img/big/2017/06/25/7/149838835717655019.jpg"
+    },
+    {
+      "id": 2,
+      "country": "Lithuania",
+      "description": "Lithuania is the southernmost of the Baltic countries and the former republic of the USSR, bordering Poland, Latvia and Belarus. Vilnius, the capital of the state, is located near Belarus and is known for its Old Town with Gothic buildings, Renaissance and Baroque styles and an 18th-century cathedral built on the site of a pagan sanctuary. Located on a hill, the Gediminas' Tower, which offers stunning views, is a symbol of the city and country.",
+      "cost": "1000",
+      "url": "https://russia-now.com/wp-content/uploads/2017/01/litva-.jpg"
+    },
+    {
+      "id": 3,
+      "country": "Estonia",
+      "description": "Estonia is a state in Northern Europe and the former republic of the USSR. It is washed by the waters of the Baltic Sea and the Gulf of Finland and includes more than 1,500 islands. The relief of the country is diverse: these are rocky beaches, virgin forests, and numerous lakes. Estonia is famous for its castles, churches and fortresses on hilltops. The capital of the country, Tallinn, is popular with tourists due to the well-preserved Old Town, museums and a television tower 314 meters high, from the observation deck of which overlooks the city.",
+      "cost": "2000",
+      "url": "https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16256-118729-f63223702_3XL.jpg?impolicy=HomeHero"
+    }
+  ],
+  "plane": [
+    {
+      "id": 1,
+      "model": "Airbus A321",
+      "speed": "840 km/h",
+      "height": "12000 m",
+      "url": "https://fakty.com.ua/wp-content/uploads/2016/12/17/Airbus-A321-large_tcm114-3646-e1482005940973.jpg"
+    },
+    {
+      "id": 2,
+      "model": "Airbus A330",
+      "speed": "871 km/h",
+      "height": "12527 m",
+      "url": "https://www.airlines-inform.ru/upload/iblock/353/A330_800neo_first_flight.jpg"
+    },
+    {
+      "id": 3,
+      "model": "Boeing 737-300",
+      "speed": "807 km/h",
+      "height": "10700 m",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Lufthansa_Boeing_737-300_%28D-ABXN%29_01.jpg"
+    },
+    {
+      "id": 4,
+      "model": "Boeing 737-500",
+      "speed": "807 km/h",
+      "height": "11300 m",
+      "url": "https://www.biletik.aero/upload/iblock/0cc/0cc1dc1c4d36a5d3c54a572adc5d095f.jpg"
+    },
+    {
+      "id": 5,
+      "model": "Boeing 777",
+      "speed": "905 km/h",
+      "height": "13140 m",
+      "url": "https://www.super-hobby.ru/zdjecia/7/0/5/15098_rd.jpg"
+    },
+    {
+      "id": 6,
+      "model": "Bombardier Dash 8",
+      "speed": "556 km/h",
+      "height": "8260 m",
+      "url": "https://www.grani.lv/uploads/posts/2018-08/1533820829_airbaltic.jpg"
+    }
+  ]
+}
